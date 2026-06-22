@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur Full-Stack passionné par l'ingénierie logicielle, le DevOps et le cloud. J'apprends à concevoir, développer et déployer des applications modernes en mettant l'accent sur la qualité du code, la sécurité et l'architecture des systèmes.
+Développeur Full-Stack passionné par l'ingénierie logicielle,le développement Fullstack etDevOps. J'apprends à concevoir, développer et déployer des applications modernes en mettant l'accent sur la qualité du code, la sécurité et l'architecture des systèmes.
 
 
 ## 🌐 Socials:
