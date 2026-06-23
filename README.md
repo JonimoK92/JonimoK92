@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur Full-Stack passionné par l'ingénierie logicielle,le développement Fullstack etDevOps. J'apprends à concevoir, développer et déployer des applications modernes en mettant l'accent sur la qualité du code, la sécurité et l'architecture des systèmes.
+Software developer specializing in Full-Stack development with a strong backend orientation. I have built several projects using Java, Python, and web technologies, which helped me develop solid foundations in software design, application structure, and problem-solving. I am increasingly interested in backend systems, software architecture, and DevOps practices, particularly around automation and modern deployment workflows.
 
 
 # 🌐 Socials:
